@@ -9,7 +9,7 @@ const about = {
   name: 'Nicolas Beckerich',
   role: 'Développeur Web Junior',
   description:
-    'Formé pendant 6 mois avec OpenClassrooms dans le domaine du développement Web.',
+    'Formé pendant 8 mois avec OpenClassrooms dans le domaine du développement Web.',
   // resume: 'https://example.com',
   social: {
     // linkedin: 'https://linkedin.com',
@@ -71,16 +71,19 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
+  'JavaScript',
   'HTML',
   'CSS',
-  'JavaScript',
   'React',
   'SASS',
-  'Git',
-  'MongoDB',
   'Express.js',
   'Node.js',
-  'Trello'
+  'Sharp',
+  'MongoDB',
+  'Trello',
+  'Git',
+  'Figma',
+  'Visual Studio Code'
 ]
 
 const contact = {
