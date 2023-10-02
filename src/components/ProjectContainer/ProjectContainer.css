@@ -10,12 +10,11 @@
   transform: translateY(-7px);
 }
 
-.project__description {
+.project__description,.project__difficulty, .project__solution {
   margin-top: 1em;
   white-space: pre-line;
-  margin-top: 1em;
-  padding-left: 1em;
-  padding-right: 1em;
+  text-align: left;
+  hyphens: auto;
 }
 
 .project__stack {
